@@ -233,6 +233,7 @@ All views have been successfully converted from HTML to React:
 | No type safety | Full TypeScript coverage |
 | Global state mess | Clean React Context |
 
+
 ## Common Tasks
 
 ### Filtering Orders
